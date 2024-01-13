@@ -3,7 +3,7 @@
 ## Who am I?
 
 - 👋 I'm Lucas Gonçalves Cordeiro
-- 💻 I'm Software Engineer
+- 💻 I'm a Software Engineer
 - 🇧🇷 I was born in Brazil
 - 🖱️ I love gaming and development!
 
