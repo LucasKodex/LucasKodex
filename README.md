@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2D0052,100:480052&height=300&section=header&text=Lucas%20Kodex&fontSize=100&fontColor=FFFFFF&animation=twinkling&fontAlignY=40)
 
-# Hello 👋
-
 ## Who am I?
 
 - 👋 I'm Lucas Gonçalves Cordeiro
-- 💻 I'm a Software Engineer
+- 💻 I'm Software Engineer
+- 🇧🇷 I was born in Brazil
+- 🖱️ I love gaming and development!
+
 - 🔭 I'm currently working on [lottery_ticket](https://github.com/LucasKodex/lottery_ticket)
-- 📫 How to reach me: lucas.kodex.dev@gmail.com
+## How to reach me:
+
+[![Gmail](https://img.shields.io/badge/lucas.kodex.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.kodex.dev%40gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Lucas%20Gon%C3%A7alves%20Cordeiro-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gon%C3%A7alves-cordeiro/)
 
 ## Tech Stack
 
