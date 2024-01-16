@@ -7,7 +7,7 @@
 - 🇧🇷 I was born in Brazil
 - 🖱️ I love gaming and development!
 
-- 🔭 I'm currently working on [lottery_ticket](https://github.com/LucasKodex/lottery_ticket)
+- 🔭 I'm currently working on [lottery-ticket-app](https://github.com/LucasKodex/lottery-ticket-app)
 ## How to reach me:
 
 [![Gmail](https://img.shields.io/badge/lucas.kodex.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.kodex.dev%40gmail.com)
