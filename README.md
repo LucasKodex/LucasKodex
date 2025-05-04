@@ -2,12 +2,13 @@
 
 ## Who am I?
 
-- 👋 I'm Lucas Gonçalves Cordeiro
-- 💻 I'm a Software Engineer
-- 🇧🇷 I was born in Brazil
-- 🖱️ I love gaming and development!
+- 👋 Lucas Gonçalves Cordeiro a.k.a. Kodex
+- 💻 Software Engineer
+- 🇧🇷 Brazilian
+- 🖱️ Passionate about gaming and software development
+- 😎 The best choice for you 🫵
+- 🔭 Currently working on [game-api-flask](https://github.com/LucasKodex/game-api-flask)
 
-- 🔭 I'm currently working on [lottery-ticket-app](https://github.com/LucasKodex/lottery-ticket-app)
 ## How to reach me:
 
 [![Gmail](https://img.shields.io/badge/lucas.kodex.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.kodex.dev%40gmail.com)
@@ -15,10 +16,24 @@
 
 ## Tech Stack
 
+Here are listed the technologies I am used but not limited to
+
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks and Libraries
+
+![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![KnexJS](https://img.shields.io/badge/KnexJS-%23D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 <!--
 **LucasKodex/LucasKodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
