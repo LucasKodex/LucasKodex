@@ -7,7 +7,6 @@
 - 🇧🇷 Brazilian
 - 🖱️ Passionate about gaming and software development
 - 😎 The best choice for you 🫵
-- 🔭 Currently working on [game-api-flask](https://github.com/LucasKodex/game-api-flask)
 
 ## How to reach me:
 
