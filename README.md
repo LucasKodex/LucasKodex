@@ -6,12 +6,11 @@
 - 💻 Software Engineer
 - 🇧🇷 Brazilian
 - 🖱️ Passionate about gaming and software development
-- 😎 The best choice for you 🫵
 
 ## How to reach me:
 
 [![Gmail](https://img.shields.io/badge/lucas.kodex.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.kodex.dev%40gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Lucas%20Gon%C3%A7alves%20Cordeiro-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gon%C3%A7alves-cordeiro/)
+[![LinkedIn](https://img.shields.io/badge/Lucas%20Gon%C3%A7alves%20Cordeiro-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kodex/)
 
 ## Tech Stack
 
@@ -19,8 +18,8 @@ Here are listed the technologies I am used but not limited to
 
 ### Programming Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
@@ -30,6 +29,7 @@ Here are listed the technologies I am used but not limited to
 
 ### Frameworks and Libraries
 
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![KnexJS](https://img.shields.io/badge/KnexJS-%23D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
